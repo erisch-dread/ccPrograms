@@ -1,4 +1,4 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "CMakeFiles/cocostudio.dir/CCActionFrame.cpp.o"
   "CMakeFiles/cocostudio.dir/CCActionFrameEasing.cpp.o"
   "CMakeFiles/cocostudio.dir/CCActionManagerEx.cpp.o"
@@ -58,6 +58,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/cocostudio.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/cocostudio.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

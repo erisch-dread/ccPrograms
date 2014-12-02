@@ -1,4 +1,4 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "CMakeFiles/extensions.dir/assets-manager/AssetsManager.cpp.o"
   "CMakeFiles/extensions.dir/GUI/CCControlExtension/CCControl.cpp.o"
   "CMakeFiles/extensions.dir/GUI/CCControlExtension/CCControlButton.cpp.o"
@@ -26,6 +26,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/extensions.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/extensions.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

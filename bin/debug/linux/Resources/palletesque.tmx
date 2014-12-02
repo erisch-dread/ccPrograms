@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="24" height="24" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="24" height="24" tilewidth="32" tileheight="32">
  <tileset firstgid="1" name="poketileset" tilewidth="32" tileheight="32">
-  <image source="poketileset.png" width="256" height="16300"/>
+  <image source="poketileset.png" width="256" height="8190"/>
  </tileset>
- <tileset firstgid="7497" name="meta_tiles" tilewidth="32" tileheight="32" spacing="1" margin="1">
+ <tileset firstgid="2041" name="meta_tiles" tilewidth="32" tileheight="32" spacing="1" margin="1">
   <image source="meta_tiles.png" width="100" height="34"/>
   <tile id="0">
    <properties>
@@ -24,7 +24,7 @@
  </tileset>
  <layer name="Terrain" width="24" height="24">
   <data encoding="base64" compression="zlib">
-   eJztkjEOgCAMRQEXJrj/MVUcQE3EhKHBIgTEgHF46dI82n44I4Q3wEgJmRwzfd6vrdM41gw/nA9DAf8S6cX2O+fbLYxd2YDbJPRh++mbvbXnj/V91R/KTXn+WF/In5pvjNL7lP4faRGu1shXgDd6yZci98xlQHb76Qfh1RrIiu435m+FAz8WpH0=
+   eJztkssOgjAQRac1TViV7/DxUyr8f1BYFDXxmnTRlCltwAImLk66uTnMzKWQRMUGaATRzXIX3/cbOHvLY4LfnY+jdfxdJMvt95nvBaQc8nTcfUKO28+M7G08fyy3tn+viA7gCE6K9/uZFH+ot9bzx3Ihf2q/Mebef+7/UwJt3xz9aucbIf8ZnV7AFVSgVuv2K5h7TmXH3O7P76C9NwdlRvcS82+FN1Hwp38=
   </data>
  </layer>
  <layer name="Misc" width="24" height="24">
@@ -37,22 +37,22 @@
    eJztlTEOwDAIA1GXZGu39v8vLUsXq8EWZOQk5AUi5QYYZja9BkmE9X95el1CIurc7fUIiahzq/9XQT+7QT+7aT8x7Sem/cSgn1XOI/e+up+zqPs5i+qHUb1fjOr9Yqj3q/385ws4dQ42
   </data>
  </layer>
- <layer name="Houses" width="24" height="24">
-  <data encoding="base64" compression="zlib">
-   eJztkbcNwEAMxLTB7z+CQ+PQODQOg5kLCDhYhd+ACLDjVWeW1EZTzFrssC/vG4+BfsQJZ2erNB4L/Yob7s5WaTwO+hMvvJ2t0tRM5F+FyL8KkX8V/v5vkiTf8wDlXyUJ
-  </data>
- </layer>
  <layer name="Water" width="24" height="24">
   <data encoding="base64" compression="zlib">
    eJxjYBgFo2AUjIJRMBTBTCYGhllIeDYTdc1fCDRvERJePGr+qPnDyHwAFpUcrQ==
   </data>
  </layer>
- <layer name="meta" width="24" height="24">
+ <layer name="Houses" width="24" height="24">
   <data encoding="base64" compression="zlib">
-   eJzzlGVg8CQCowNi9JCCB7v51AbD2Xxi7CY1fuhpPjXAYAl/bzLtptT9tA7/kRa/pJZVlMhToywc7OZ7USEciHH/qPn0N58UDAAap364
+   eJztkTkKgEAMANPsAzwaj8bjNWrjVXj9/xvOBwKLKCyYgekmWciKGKEROZEYE0zd80Yjo8+xwFKZ9Wk0KvoaG2yVWZ/m73Tcpcfhg/uM7JxwxgXXl9/Y2LfjgSde9seGYQTGDbB9B30=
   </data>
  </layer>
- <objectgroup name="Objects">
+ <layer name="meta" width="24" height="24">
+  <data encoding="base64" compression="zlib">
+   eJz7yc7A8JMIjA6I0UMKHuzmUxsMpPnE2E1q+A0n86kBBkv8/ibTbkrdTygPDXbzSbWf1uaTWlZRIk+NsnCwm/+LCuFAjPtHzae/+aRgADhPSBM=
+  </data>
+ </layer>
+ <objectgroup name="Objects" width="0" height="0">
   <object name="SpawnPoint" x="208" y="266"/>
  </objectgroup>
 </map>

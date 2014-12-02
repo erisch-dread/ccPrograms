@@ -1,4 +1,4 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "CMakeFiles/cocos2d.dir/cocos2d.cpp.o"
   "CMakeFiles/cocos2d.dir/2d/CCActionCamera.cpp.o"
   "CMakeFiles/cocos2d.dir/2d/CCActionCatmullRom.cpp.o"
@@ -206,6 +206,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C CXX)
-  include(CMakeFiles/cocos2d.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+FOREACH(lang C CXX)
+  INCLUDE(CMakeFiles/cocos2d.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

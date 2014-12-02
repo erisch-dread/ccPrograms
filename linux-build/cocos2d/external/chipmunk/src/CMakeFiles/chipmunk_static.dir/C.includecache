@@ -114,7 +114,7 @@ cpSimpleMotor.h
 
 ../cocos2d/external/chipmunk/include/chipmunk/cpVect.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk.c
 stdio.h
 -
 string.h
@@ -122,115 +122,115 @@ string.h
 stdarg.h
 -
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 chipmunk_ffi.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_ffi.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_ffi.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/cpConstraint.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/cpConstraint.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/cpDampedRotarySpring.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/cpDampedRotarySpring.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/cpDampedSpring.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/cpDampedSpring.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/cpGearJoint.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/cpGearJoint.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/cpGrooveJoint.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/cpGrooveJoint.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/cpPinJoint.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/cpPinJoint.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/cpPivotJoint.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/cpPivotJoint.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/cpRatchetJoint.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/cpRatchetJoint.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/cpRotaryLimitJoint.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/cpRotaryLimitJoint.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/cpSimpleMotor.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/cpSimpleMotor.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/cpSlideJoint.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/cpSlideJoint.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpArbiter.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpArbiter.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpArray.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpArray.c
 string.h
 -
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpBB.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpBB.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpBBTree.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpBBTree.c
 stdlib.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/stdlib.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/stdlib.h
 stdio.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/stdio.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/stdio.h
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 OpenGL/gl.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/OpenGL/gl.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/OpenGL/gl.h
 OpenGL/glu.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/OpenGL/glu.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/OpenGL/glu.h
 GLUT/glut.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpBody.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpBody.c
 float.h
 -
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 constraints/util.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/constraints/util.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/constraints/util.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpCollision.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpCollision.c
 stdio.h
 -
 string.h
@@ -238,75 +238,75 @@ string.h
 alloca.h
 -
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 ChipmunkDemo.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/ChipmunkDemo.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/ChipmunkDemo.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpHashSet.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpHashSet.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 prime.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/prime.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/prime.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpPolyShape.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpPolyShape.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 chipmunk_unsafe.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_unsafe.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_unsafe.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpShape.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpShape.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 chipmunk_unsafe.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_unsafe.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_unsafe.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpSpace.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpSpace.c
 stdio.h
 -
 string.h
 -
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpSpaceComponent.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpSpaceComponent.c
 string.h
 -
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpSpaceHash.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpSpaceHash.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 prime.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/prime.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/prime.h
 OpenGL/gl.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/OpenGL/gl.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/OpenGL/gl.h
 OpenGL/glu.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/OpenGL/glu.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/OpenGL/glu.h
 GLUT/glut.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpSpaceQuery.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpSpaceQuery.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpSpaceStep.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpSpaceStep.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpSpatialIndex.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpSpatialIndex.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpSweep1D.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpSweep1D.c
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/cpVect.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/cpVect.c
 stdio.h
 -
 chipmunk_private.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/chipmunk_private.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/chipmunk_private.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/chipmunk/src/prime.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/chipmunk/src/prime.h
 

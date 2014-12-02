@@ -1,26 +1,26 @@
 # The set of languages for which implicit dependencies are needed:
-set(CMAKE_DEPENDS_LANGUAGES
+SET(CMAKE_DEPENDS_LANGUAGES
   "CXX"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/unzip/ioapi.cpp" "/home/erisch/Documents/programming/testGame/MyGame/linux-build/cocos2d/external/unzip/CMakeFiles/unzip.dir/ioapi.cpp.o"
-  "/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/unzip/unzip.cpp" "/home/erisch/Documents/programming/testGame/MyGame/linux-build/cocos2d/external/unzip/CMakeFiles/unzip.dir/unzip.cpp.o"
+SET(CMAKE_DEPENDS_CHECK_CXX
+  "/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/unzip/ioapi.cpp" "/home/jeant/cocosGames/tileGame/ccPrograms/linux-build/cocos2d/external/unzip/CMakeFiles/unzip.dir/ioapi.cpp.o"
+  "/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/unzip/unzip.cpp" "/home/jeant/cocosGames/tileGame/ccPrograms/linux-build/cocos2d/external/unzip/CMakeFiles/unzip.dir/unzip.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+SET(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
-set(CMAKE_TARGET_DEFINITIONS
+SET(CMAKE_TARGET_DEFINITIONS
   "CC_ENABLE_CHIPMUNK_INTEGRATION=1"
   "LINUX"
   )
 
 # Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+SET(CMAKE_TARGET_LINKED_INFO_FILES
   )
 
 # The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
+SET(CMAKE_C_TARGET_INCLUDE_PATH
   "/usr/local/include/GLFW"
   "/usr/include/GLFW"
   "../cocos2d"
@@ -45,6 +45,6 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../cocos2d/external/xxhash"
   "../cocos2d/external/chipmunk/include/chipmunk"
   )
-set(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
-set(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
-set(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

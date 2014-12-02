@@ -1,3 +1,3 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "../../lib/libextensions.a"
 )

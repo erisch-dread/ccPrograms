@@ -2600,7 +2600,7 @@ CCGL.h
 base/CCPlatformMacros.h
 ../cocos2d/cocos/renderer/base/CCPlatformMacros.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Animation.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Animation.cpp
 spine/Animation.h
 -
 limits.h
@@ -2608,7 +2608,7 @@ limits.h
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/AnimationState.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/AnimationState.cpp
 spine/Animation.h
 -
 spine/AnimationState.h
@@ -2626,13 +2626,13 @@ spine/SkeletonData.h
 string.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/AnimationStateData.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/AnimationStateData.cpp
 spine/AnimationStateData.h
 -
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Atlas.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Atlas.cpp
 spine/Atlas.h
 -
 ctype.h
@@ -2640,13 +2640,13 @@ ctype.h
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/AtlasAttachmentLoader.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/AtlasAttachmentLoader.cpp
 spine/AtlasAttachmentLoader.h
 -
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Attachment.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Attachment.cpp
 spine/Attachment.h
 -
 spine/extension.h
@@ -2654,7 +2654,7 @@ spine/extension.h
 spine/Slot.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/AttachmentLoader.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/AttachmentLoader.cpp
 spine/AttachmentLoader.h
 -
 stdio.h
@@ -2662,31 +2662,31 @@ stdio.h
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Bone.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Bone.cpp
 spine/Bone.h
 -
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/BoneData.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/BoneData.cpp
 spine/BoneData.h
 -
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/BoundingBoxAttachment.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/BoundingBoxAttachment.cpp
 spine/BoundingBoxAttachment.h
 -
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/CCSkeleton.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/CCSkeleton.cpp
 spine/CCSkeleton.h
 -
 spine/spine-cocos2dx.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/CCSkeletonAnimation.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/CCSkeletonAnimation.cpp
 spine/CCSkeletonAnimation.h
 -
 spine/extension.h
@@ -2694,21 +2694,21 @@ spine/extension.h
 spine/spine-cocos2dx.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Event.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Event.cpp
 spine/Event.h
 -
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/EventData.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/EventData.cpp
 spine/EventData.h
 -
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Json.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Json.cpp
 Json.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Json.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Json.h
 stdio.h
 -
 ctype.h
@@ -2716,15 +2716,15 @@ ctype.h
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Json.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Json.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/RegionAttachment.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/RegionAttachment.cpp
 spine/RegionAttachment.h
 -
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Skeleton.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Skeleton.cpp
 spine/Skeleton.h
 -
 string.h
@@ -2732,7 +2732,7 @@ string.h
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/SkeletonBounds.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/SkeletonBounds.cpp
 spine/SkeletonBounds.h
 -
 limits.h
@@ -2740,7 +2740,7 @@ limits.h
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/SkeletonData.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/SkeletonData.cpp
 spine/SkeletonData.h
 -
 string.h
@@ -2748,13 +2748,13 @@ string.h
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/SkeletonJson.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/SkeletonJson.cpp
 spine/SkeletonJson.h
 -
 stdio.h
 -
 Json.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Json.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Json.h
 spine/extension.h
 -
 spine/RegionAttachment.h
@@ -2762,13 +2762,13 @@ spine/RegionAttachment.h
 spine/AtlasAttachmentLoader.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Skin.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Skin.cpp
 spine/Skin.h
 -
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/Slot.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/Slot.cpp
 spine/Slot.h
 -
 spine/extension.h
@@ -2776,25 +2776,25 @@ spine/extension.h
 spine/Skeleton.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/SlotData.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/SlotData.cpp
 spine/SlotData.h
 -
 spine/extension.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/extension.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/extension.cpp
 spine/extension.h
 -
 stdio.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/editor-support/spine/spine-cocos2dx.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/editor-support/spine/spine-cocos2dx.cpp
 spine/spine-cocos2dx.h
 -
 spine/extension.h
 -
 
-/usr/include/GLFW/glfw3.h
+/usr/local/include/GLFW/glfw3.h
 stddef.h
 -
 OpenGL/gl3.h

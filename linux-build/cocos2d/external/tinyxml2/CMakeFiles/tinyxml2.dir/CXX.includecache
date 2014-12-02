@@ -28,9 +28,9 @@ string.h
 assert.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/tinyxml2/tinyxml2.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/tinyxml2/tinyxml2.cpp
 tinyxml2.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/tinyxml2/tinyxml2.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/tinyxml2/tinyxml2.h
 new
 -
 stddef.h
@@ -38,11 +38,11 @@ stddef.h
 cstddef
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/tinyxml2/tinyxml2.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/tinyxml2/tinyxml2.h
 base/CCPlatformConfig.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/tinyxml2/base/CCPlatformConfig.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/tinyxml2/base/CCPlatformConfig.h
 base/CCPlatformMacros.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/tinyxml2/base/CCPlatformMacros.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/tinyxml2/base/CCPlatformMacros.h
 ctype.h
 -
 limits.h

@@ -2394,15 +2394,15 @@ CCGL.h
 base/CCPlatformMacros.h
 ../cocos2d/cocos/renderer/base/CCPlatformMacros.h
 
-/home/erisch/Documents/programming/testGame/MyGame/Classes/HelloWorldScene.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/Classes/HelloWorldScene.cpp
 HelloWorldScene.h
-/home/erisch/Documents/programming/testGame/MyGame/Classes/HelloWorldScene.h
+/home/jeant/cocosGames/tileGame/ccPrograms/Classes/HelloWorldScene.h
 
-/home/erisch/Documents/programming/testGame/MyGame/Classes/HelloWorldScene.h
+/home/jeant/cocosGames/tileGame/ccPrograms/Classes/HelloWorldScene.h
 cocos2d.h
-/home/erisch/Documents/programming/testGame/MyGame/Classes/cocos2d.h
+/home/jeant/cocosGames/tileGame/ccPrograms/Classes/cocos2d.h
 
-/usr/include/GLFW/glfw3.h
+/usr/local/include/GLFW/glfw3.h
 stddef.h
 -
 OpenGL/gl3.h

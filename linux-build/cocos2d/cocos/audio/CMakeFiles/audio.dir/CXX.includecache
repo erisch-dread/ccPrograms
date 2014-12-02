@@ -2416,41 +2416,41 @@ fmod.h
 
 ../cocos2d/external/linux-specific/fmod/include/64-bit/fmod_memoryinfo.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/AudioPlayer.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/AudioPlayer.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/FmodAudioPlayer.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/FmodAudioPlayer.cpp
 FmodAudioPlayer.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/FmodAudioPlayer.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/FmodAudioPlayer.h
 stdio.h
 -
 stdlib.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/stdlib.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/stdlib.h
 assert.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/assert.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/assert.h
 string.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/string.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/string.h
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/FmodAudioPlayer.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/FmodAudioPlayer.h
 fmod.hpp
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/fmod.hpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/fmod.hpp
 fmod_errors.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/fmod_errors.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/fmod_errors.h
 AudioPlayer.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/AudioPlayer.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/AudioPlayer.h
 string
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/string
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/string
 map
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/SimpleAudioEngineFMOD.cpp
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/SimpleAudioEngineFMOD.cpp
 audio/include/SimpleAudioEngine.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/audio/include/SimpleAudioEngine.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/audio/include/SimpleAudioEngine.h
 FmodAudioPlayer.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/FmodAudioPlayer.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/FmodAudioPlayer.h
 cocos2d.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/cocos/audio/linux/cocos2d.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/cocos/audio/linux/cocos2d.h
 
-/usr/include/GLFW/glfw3.h
+/usr/local/include/GLFW/glfw3.h
 stddef.h
 -
 OpenGL/gl3.h

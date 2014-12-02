@@ -55,8 +55,9 @@ bool HelloWorld::init()
 
     _player = CCSprite::create("Player.png");
     _player->setPosition( ccp(x, y) );
+    _tileMap->addChild(_player);
 
-    this->addChild(_player);
+    //this->addChild(_player);
     this->setViewPointCenter(_player->getPosition());
 
     this->setTouchEnabled(true);

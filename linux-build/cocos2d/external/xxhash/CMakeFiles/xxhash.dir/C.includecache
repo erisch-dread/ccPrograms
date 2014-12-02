@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/xxhash/xxhash.c
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/xxhash/xxhash.c
 xxhash.h
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/xxhash/xxhash.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/xxhash/xxhash.h
 stdlib.h
 -
 string.h
@@ -16,5 +16,5 @@ string.h
 stdint.h
 -
 
-/home/erisch/Documents/programming/testGame/MyGame/cocos2d/external/xxhash/xxhash.h
+/home/jeant/cocosGames/tileGame/ccPrograms/cocos2d/external/xxhash/xxhash.h
 

@@ -1,4 +1,4 @@
-file(REMOVE_RECURSE
+FILE(REMOVE_RECURSE
   "CMakeFiles/cocosbuilder.dir/CCBFileLoader.cpp.o"
   "CMakeFiles/cocosbuilder.dir/CCMenuItemImageLoader.cpp.o"
   "CMakeFiles/cocosbuilder.dir/CCBReader.cpp.o"
@@ -26,6 +26,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
-  include(CMakeFiles/cocosbuilder.dir/cmake_clean_${lang}.cmake OPTIONAL)
-endforeach()
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/cocosbuilder.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)
