@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="poketileset2" tilewidth="16" tileheight="16">
+  <image source="poketileset2.png" width="864" height="705"/>
+ </tileset>
+ <layer name="Terrain" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwwENAAAMw6D6VzOJF3JIWDVVVVXfPXjMat8=
+  </data>
+ </layer>
+ <layer name="Tree" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl7ENgEAMA58JHoYChgKGAhbEZRoXyctUPukkN6muSp9am+ECe3JHsrcr3OBe2JHs7QFPeBV2JHt7wwe+hR3J3rJeClhfNayvGtZXjfu6rwL3dV8F7uu+CtzXfRWwvn/ukf9oZH/He2rJ
+  </data>
+ </layer>
+</map>
